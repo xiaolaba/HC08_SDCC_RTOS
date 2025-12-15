@@ -10,7 +10,7 @@ filenames of con.c and con.h are not allowed in Windows computer, change to cons
 
 ### how to build
 build.bat, used to build S19 under windows PC, test ok  
-Makefile, used to build S19 under windows PC, test ok  
+Makefile, used to build S19 under windows PC, test ok (command, 'make -B', foce compilation anyway, 'rm' did not work on my PC)  
 compare_S19.bat, see two firmware built by build.bat and Makefile, test result, no diff  
 clean.bat, delete temperatory folder "obj"  
 
