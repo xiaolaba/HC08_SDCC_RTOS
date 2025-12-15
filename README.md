@@ -16,7 +16,7 @@ clean.bat, delete temperatory folder "obj"
 
 ### SDCC version used, firmware and result
 ![ok_make.JPG](ok_make.JPG)  
-![[ok_build.JPG](ok_build.JPG)  
+![ok_build.JPG](ok_build.JPG)  
 ![SDCC4.4.0.JPG](SDCC4.4.0.JPG)  
 
 
