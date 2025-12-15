@@ -1,0 +1,16 @@
+-muwx
+-s firmware/hc908rtos_Win11_make.S19
+-b HOME = 0xee00
+-b DSEG = 0x0040
+-k C:\Program Files (x86)\SDCC\bin\..\lib\hc08
+-l hc08
+obj/app.rel
+obj/console.rel
+obj/ipc.rel
+obj/main.rel
+obj/rtc.rel
+obj/sci.rel
+obj/stdio.rel
+obj/strings.rel
+
+-e
